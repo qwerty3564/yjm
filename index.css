@@ -160,4 +160,13 @@ a{
     font-family:STKaiti;
     font-size: 50px;
 }
+audio{
+    display: block;
+  
+ width: 200px;
+ height: 30px;
+margin: 0 auto;
+border: 0;
+
+}
 
