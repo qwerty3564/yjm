@@ -149,6 +149,11 @@ html,body{
     width: auto;
     text-align: center;
 }
+a{
+    color: purple;
+  text-decoration: none;
+
+}
 .c{
     width: 100%;
     text-align: center;
